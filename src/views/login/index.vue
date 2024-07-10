@@ -55,7 +55,7 @@ const loginForms = ref()
 const loading = ref<boolean>(false)
 const loginForm = reactive({
   username: 'admin',
-  password: 'atguigu123',
+  password: '111111',
 })
 
 // 自定义表达校验
